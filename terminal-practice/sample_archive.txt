@@ -1,0 +1,2 @@
+Line 1: Exploring terminal file management as a digital detective.
+Line 2: Appending a second line safely using redirection.
