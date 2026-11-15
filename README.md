@@ -34,7 +34,7 @@ In accordance with the assignment guidelines:
 | **Mission 2** | Terminal and file management | [mission-02-terminal/](mission-02-terminal/README.md) | Completed |
 | **Mission 3** | Operating system, processes and permissions | [mission-03-operating-system/](mission-03-operating-system/README.md) | Completed |
 | **Mission 4** | How programs run | [mission-04-programs/](mission-04-programs/README.md) | Completed |
-| **Mission 5** | Number systems, Python and text encoding | [mission-05-numbers-data/](mission-05-numbers-data/README.md) | Pending |
+| **Mission 5** | Number systems, Python and text encoding | [mission-05-numbers-data/](mission-05-numbers-data/README.md) | Completed |
 | **Mission 6** | Git, GitHub, branches and Pull Requests | [mission-06-git-github/](mission-06-git-github/README.md) | Pending |
 | **Mission 7** | Computer networks | [mission-07-networking/](mission-07-networking/README.md) | Pending |
 | **Mission 8** | Final review and submission | [mission-08-final-report/](mission-08-final-report/README.md) | Pending |
