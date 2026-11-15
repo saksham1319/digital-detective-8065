@@ -41,6 +41,14 @@ In accordance with the assignment guidelines:
 
 ---
 
+## My Learning
+Through the hands-on missions completed so far, I have gained practical, under-the-hood insights into computing systems:
+1. **The Operating System as a Master Resource Arbiter**: Working with `ps aux`, `df -h`, and UNIX permissions (`rwx`) demonstrated that the OS is not just a graphical wrapper, but a protective layer that isolates memory, schedules CPU time across hundreds of competing threads, and prevents processes from compromising storage integrity.
+2. **Data Representation & Information Encoding**: Manually breaking numbers down into binary bit-patterns and hexadecimal nibbles—and then confirming the mathematics in Python—solidified how all human symbols, text characters (via ASCII/UTF-8), and instructions boil down to fundamental high and low electrical states.
+3. **Composability of Command-Line Utilities**: Moving away from the GUI showed the immense power of UNIX philosophy—combining single-purpose CLI utilities like `ls`, `grep`, and `head` via in-memory pipes (`|`) to filter and inspect system data without creating messy temporary files.
+
+---
+
 ## Quick Start: Running the Python Programs
 As part of Missions 4 and 5, Python scripts are included in the repository.
 
