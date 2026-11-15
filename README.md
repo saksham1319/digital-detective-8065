@@ -30,7 +30,7 @@ In accordance with the assignment guidelines:
 | Mission | Focus Area | Directory Link | Status |
 | :--- | :--- | :--- | :--- |
 | **Mission 0** | Repository and workspace setup | [mission-00-setup/](mission-00-setup/README.md) | Completed |
-| **Mission 1** | Computer fundamentals and IPOS | [mission-01-computer-basics/](mission-01-computer-basics/README.md) | Pending |
+| **Mission 1** | Computer fundamentals and IPOS | [mission-01-computer-basics/](mission-01-computer-basics/README.md) | Completed |
 | **Mission 2** | Terminal and file management | [mission-02-terminal/](mission-02-terminal/README.md) | Pending |
 | **Mission 3** | Operating system, processes and permissions | [mission-03-operating-system/](mission-03-operating-system/README.md) | Pending |
 | **Mission 4** | How programs run | [mission-04-programs/](mission-04-programs/README.md) | Pending |
